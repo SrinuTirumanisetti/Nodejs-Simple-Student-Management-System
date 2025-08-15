@@ -243,6 +243,3 @@ if id is invalid
 
 ---
 
-## Author
-
-**Adnan Qureshi | Full Stack Developer**
